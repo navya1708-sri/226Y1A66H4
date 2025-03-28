@@ -7,6 +7,7 @@ import Typography from "@mui/material/Typography";
 import { CardActionArea, Icon, Grid } from "@mui/material";
 import ArrowDropUpIcon from "@mui/icons-material/ArrowDropUp";
 import ArrowDropDownIcon from "@mui/icons-material/ArrowDropDown";
+//react
 const SingleCard2 = ({
   socialLogo,
   socialName,
